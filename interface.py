@@ -5,8 +5,6 @@ def get_characters(): return l.get_characters()
 
 def get_char_id(char): return l.get_char_id(char)
 
-
-
 def get_character(char): return l.get_character(char)
 
 #SORT

@@ -243,7 +243,6 @@ class GUI():
     def open_character_info(self, char):
         self.show_char_info(char)
         self.char_info_frame.tkraise()
-
     def get_character_list(self):
         return i.get_characters()
 
