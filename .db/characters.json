@@ -1,0 +1,779 @@
+{
+  "Lathel, Medicinal Herb Gatherer": {
+    "face_img": "illust_inven_char000101_1.png",
+    "id": 1,
+    "rarity": 5,
+    "type": "Fire",
+    "skill_tree": {
+      "1.1": {
+        "name": "DEF",
+        "value": 0,
+        "description": 0,
+        "gold": 0,
+        "crystal": 0
+      },
+      "1.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.3": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.1": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.3": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.3": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.1": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.3": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.1": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.2": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      }
+    }
+  },
+  "Lathel, Lonely Survivor": {
+    "face_img": "illust_inven_char000102_44.png",
+    "id": 44,
+    "rarity": 5,
+    "type": "Fire",
+    "skill_tree": {
+      "1.1": {
+        "name": "DEF",
+        "value": 0,
+        "description": 0,
+        "gold": 0,
+        "crystal": 0
+      },
+      "1.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.3": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.1": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.3": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.3": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.1": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.3": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.1": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.2": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      }
+    }
+  },
+  "Lathel, Dark Knight": {
+    "face_img": "illust_inven_char000104_69.png",
+    "rarity": 5,
+    "id": 69,
+    "type": "Fire",
+    "skill_tree": {
+      "1.1": {
+        "name": "DEF",
+        "value": 0,
+        "description": 0,
+        "gold": 0,
+        "crystal": 0
+      },
+      "1.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.3": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.1": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.3": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.3": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.1": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.3": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.1": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.2": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      }
+    }
+  },
+  "Goblin Slayer, Orcbolg": {
+    "face_img": "illust_inven_char020601_160.png",
+    "rarity": 5,
+    "id": 160,
+    "type": "Fire",
+    "skill_tree": {
+      "1.1": {
+        "name": "DEF",
+        "value": 0,
+        "description": 0,
+        "gold": 0,
+        "crystal": 0
+      },
+      "1.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.3": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.1": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.3": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.3": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.1": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.3": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.1": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.2": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      }
+    }
+  },
+  "Priestess": {
+    "face_img": "illust_inven_char020701_161.png",
+    "rarity": 5,
+    "id": 161,
+    "type": "Light",
+    "skill_tree": {
+      "1.1": {
+        "name": "DEF",
+        "value": 0,
+        "description": 0,
+        "gold": 0,
+        "crystal": 0
+      },
+      "1.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.3": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.1": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.3": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.3": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.1": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.3": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.1": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.2": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      }
+    }
+  },
+  "Elf Archer": {
+    "face_img": "illust_inven_char020801_162.png",
+    "rarity": 5,
+    "id": 162,
+    "type": "Wind",
+    "skill_tree": {
+      "1.1": {
+        "name": "DEF",
+        "value": 0,
+        "description": 0,
+        "gold": 0,
+        "crystal": 0
+      },
+      "1.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.3": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.1": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.3": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.3": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.1": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.3": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.1": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.2": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      }
+    }
+  },
+  "Sword Maiden": {
+    "face_img": "illust_inven_char020901_163.png",
+    "rarity": 5,
+    "id": 163,
+    "type": "Light",
+    "skill_tree": {
+      "1.1": {
+        "name": "DEF",
+        "value": 0,
+        "description": 0,
+        "gold": 0,
+        "crystal": 0
+      },
+      "1.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "3.3": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.1": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.2": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "4.3": {
+        "name": "HP",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.1": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.2": {
+        "name": "DEF",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "5.3": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.1": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.2": {
+        "name": "ATK",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "6.3": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.1": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      },
+      "7.2": {
+        "name": "SKILL",
+        "description": "",
+        "gold": 0,
+        "crystal": 0
+      }
+    }
+  }
+}
